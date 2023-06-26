@@ -18,7 +18,7 @@ const Personaje = () => {
   }
 
   return (
-    <div className='container-fluid d-flex flex-column'>
+    <div className='container d-flex flex-column'>
       <h1 className='text-center my-5'>Selecciona un Pokémon</h1>
       <div className="row">
         <div className="col d-flex flex-column justify-content-center align-items-center">
